@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AppTheme_new" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
 </resources>
